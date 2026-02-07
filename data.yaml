@@ -1,6 +1,6 @@
 path: dataset
-train: images
-val: images
+train: images/train
+val: images/val
 
-names:
-  0: damaged
+nc: 1
+names: ['defect']
